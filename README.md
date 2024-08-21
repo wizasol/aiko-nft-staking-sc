@@ -1,4 +1,4 @@
-# NFT_Staking
+# Aiko-Nft-Staking-Smart-Contract
 Staking program for AIKO NFT collections
 
 ## Install Dependencies
